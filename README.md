@@ -34,9 +34,27 @@ This project demonstrates basic CRUD operations: Create, Read, Update, and Delet
 - C++
 - GitHub
 
+## Project File
+
+- main.cpp
+
 ## How to Run
 
-Compile the program using a C++ compiler:
+Open the project in any C++ compiler or IDE such as:
 
-```bash
-g++ main.cpp -o lostfound
+- Dev-C++
+- Code::Blocks
+- Visual Studio Code
+- Online C++ compiler
+
+Then open the `main.cpp` file and run the program.
+
+## Course Information
+
+- Course: Programming Fundamentals
+- Semester: 1st Semester
+- Institute: IMSciences Peshawar
+
+## Author
+
+Muhammad Saaim
